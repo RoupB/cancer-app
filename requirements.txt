@@ -8,3 +8,4 @@ lime
 scikit-image
 grad-cam
 gdown
+opencv-python-headless
