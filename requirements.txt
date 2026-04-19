@@ -1,9 +1,10 @@
 streamlit
 torch
 torchvision
+pillow
 numpy
 matplotlib
-pillow
-scikit-image
 lime
+scikit-image
 pytorch-grad-cam
+gdown
