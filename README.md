@@ -112,4 +112,55 @@ N --> O
 
 
 
-Folder Structure:
+**Folder Structure
+**
+
+cancer-app/
+│
+├── app.py   # streamlt app code
+├── README.md  # readme file
+├── requirements.txt # required libreries for streamlit app
+├── packages.txt # required pacakes for streamlit app
+├── runtime.txt
+├── .gitignore
+│
+├── model_codes/
+│   ├── DenseNet121/
+│   │   ├── Acute_Lymphoblastic_Leukemia.ipynb  # model for Acute Lymphoblastic Leukemia
+│   │   ├── All_Images.ipynb  # model with all images
+│   │   ├── Brain.ipynb  # model for brain images
+│   │   ├── Breast.ipynb  # model for beast images
+│   │   ├── Cervix.ipynb # model for cervix images
+│   │   ├── Colon.ipynb  # model for colon images
+│   │   ├── Kidney.ipynb # model for kideny images
+│   │   ├── Lung.ipynb # model for lung images
+│   │   ├── Lymph.ipynb # model of lymph images
+│   │   └── Oral.ipynb  # model for oral images
+│   │
+│   ├── EfficientNetB0/
+│   │   ├── Brain.ipynb # model for brain images
+│   │   ├── Kidney.ipynb # model for kideny images
+│   │   └── Lymph.ipynb # model of lymph images
+│   │
+│   ├── MobileNetV2/
+│   │   └── All_Images.ipynb # model with all images
+│   │
+│   ├── MobileNetV3/
+│   │   ├── All_Images.ipynb
+│   │   ├── Brain.ipynb # model for brain images
+│   │   └── Kidney.ipynb # model for kideny images
+│   │
+│   ├── ResNet18/
+│   │   ├── All_Images.ipynb # model with all images
+│   │   ├── Brain.ipynb # model for brain images
+│   │   ├── Kidney.ipynb # model for kideny images
+│   │   └── Lymph.ipynb # model of lymph images
+│   │
+│   ├── VGG16/
+│   │   └── All_Images.ipynb # model with all images
+│   │
+│   └── ViT_B16/
+│       ├── All_Images.ipynb
+│       ├── Brain.ipynb # model for brain images
+│       ├── Kidney.ipynb # model for kideny images
+│       └── Lymph.ipynb # model of lymph images
