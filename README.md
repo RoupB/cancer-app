@@ -25,6 +25,8 @@ Full dataset: https://drive.google.com/drive/folders/1muEW2zqc7b_ROzyeav5jVP5JZz
 Split dataset (train vs validation vs test): https://drive.google.com/drive/folders/1JLyk5h_NwPjg58On-5Gkv2pZV09Q8y-0?usp=drive_link
 
 
+To run any of these modedl, please take data from G-drive folders or from kaggle link and change the path. 
+
 
 **Full Architecture**
 
