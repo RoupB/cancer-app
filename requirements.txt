@@ -6,6 +6,6 @@ matplotlib
 pillow
 lime
 scikit-image
-pytorch-grad-cam
+grad-cam
 opencv-python-headless
 gdown
