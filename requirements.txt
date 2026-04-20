@@ -10,3 +10,4 @@ grad-cam
 gdown
 opencv-python-headless
 opencv-python
+pytorch-grad-cam
