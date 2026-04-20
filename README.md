@@ -97,7 +97,9 @@ N --> O
 - Models use **transfer learning with frozen backbones**  
 - Best model is **saved and reused for inference**:
 
-  Saved Models are place here: https://drive.google.com/drive/folders/1wPvzz0aw4uo8rCYffSBlcKzXNKbjFTV1?usp=drive_link
+  Saved Models are placed here: https://drive.google.com/drive/folders/1wPvzz0aw4uo8rCYffSBlcKzXNKbjFTV1?usp=drive_link
+
+  Inside the above folder, there's another folder where we placed inputs for statistical tests: https://drive.google.com/drive/folders/14LeSHRLuMWc9i_X9f08wNtZ224nree6Q?usp=drive_link
     
 - Predictions include:
   - Top-3 classes  
