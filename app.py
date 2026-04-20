@@ -13,7 +13,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 import gdown
-import cv2
+
 from lime import lime_image
 from skimage.segmentation import mark_boundaries
 from pytorch_grad_cam import GradCAM
