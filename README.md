@@ -128,6 +128,7 @@ cancer-app/
 ├── runtime.txt
 ├── .gitignore
 ├── statistical_test.ipynb  # done statistical tests to compare multiple models
+├── mcnemar_results.csv  # statistical test result output
 │
 ├── model_codes/
 │   ├── DenseNet121/
