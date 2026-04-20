@@ -111,10 +111,10 @@ N --> O
 - Final system is deployed using a **Streamlit web app**: App link: https://cancer-app-g4evappcrrqdfhsyc7mgphj.streamlit.app/
 
 
+**Folder Structure**
 
-**Folder Structure
-**
 
+```text
 cancer-app/
 │
 ├── app.py   # streamlt app code
@@ -164,3 +164,4 @@ cancer-app/
 │       ├── Brain.ipynb # model for brain images
 │       ├── Kidney.ipynb # model for kideny images
 │       └── Lymph.ipynb # model of lymph images
+```
