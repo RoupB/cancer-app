@@ -1,0 +1,7 @@
+Model 1,Model 2,00 (both wrong),"01 (M1 wrong, M2 correct)","10 (M1 correct, M2 wrong)",11 (both correct),p-value,Significant (p < 0.05)
+DenseNet,EfficientNet,150,1371,96,633,2.099822809424746e-289,True
+DenseNet,MobileNet,164,1357,125,604,9.124405753723547e-262,True
+DenseNet,ResNet,139,1382,124,605,3.991929983108391e-269,True
+EfficientNet,MobileNet,90,156,199,1805,0.025666910882391095,True
+EfficientNet,ResNet,92,154,171,1833,0.3748253580707024,False
+MobileNet,ResNet,88,201,175,1786,0.19723642137584366,False
