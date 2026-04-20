@@ -16,7 +16,6 @@ import gdown
 
 from lime import lime_image
 from skimage.segmentation import mark_boundaries
-
 from pytorch_grad_cam import GradCAM
 from pytorch_grad_cam.utils.model_targets import ClassifierOutputTarget
 
