@@ -7,5 +7,5 @@ pillow
 lime
 scikit-image
 grad-cam
-opencv-python-headless
+opencv-python
 gdown
