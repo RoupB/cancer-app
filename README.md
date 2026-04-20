@@ -25,7 +25,9 @@ Full dataset: https://drive.google.com/drive/folders/1muEW2zqc7b_ROzyeav5jVP5JZz
 Split dataset (train vs validation vs test): https://drive.google.com/drive/folders/1JLyk5h_NwPjg58On-5Gkv2pZV09Q8y-0?usp=drive_link
 
 
-** Full Architecture:**
+
+**Full Architecture**
+
 
 ```mermaid
 flowchart TD
@@ -93,7 +95,10 @@ N --> O
   - Vision Transformer (ViT-B16)
 
 - Models use **transfer learning with frozen backbones**  
-- Best model is **saved and reused for inference**  
+- Best model is **saved and reused for inference**:
+
+  Saved Models are place here: https://drive.google.com/drive/folders/1wPvzz0aw4uo8rCYffSBlcKzXNKbjFTV1?usp=drive_link
+    
 - Predictions include:
   - Top-3 classes  
   - Probabilities  
@@ -103,7 +108,7 @@ N --> O
   - **Grad-CAM** (region importance)
   - **LIME** (local feature importance)
 
-- Final system is deployed using a **Streamlit web app**
+- Final system is deployed using a **Streamlit web app**: App link: https://cancer-app-g4evappcrrqdfhsyc7mgphj.streamlit.app/
 
 
 
