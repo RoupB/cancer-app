@@ -123,6 +123,7 @@ cancer-app/
 ├── packages.txt # required pacakes for streamlit app
 ├── runtime.txt
 ├── .gitignore
+├── statistical_test.ipynb  # done statistical tests to compare multiple models
 │
 ├── model_codes/
 │   ├── DenseNet121/
