@@ -20,9 +20,9 @@ Dataset Kaggle link: https://www.kaggle.com/datasets/obulisainaren/multi-cancer/
 
 G-drive links: 
 
-Full dataset: https://drive.google.com/drive/folders/1muEW2zqc7b_ROzyeav5jVP5JZzXUozMN?usp=drive_link
+Full dataset: https://drive.google.com/drive/folders/1muEW2zqc7b_ROzyeav5jVP5JZzXUozMN?usp=drive_link (please download this data and replace the path SOURCE_DIR of any code
 
-Split dataset (train vs validation vs test): https://drive.google.com/drive/folders/1JLyk5h_NwPjg58On-5Gkv2pZV09Q8y-0?usp=drive_link
+Split dataset (train vs validation vs test): https://drive.google.com/drive/folders/1JLyk5h_NwPjg58On-5Gkv2pZV09Q8y-0?usp=drive_link (please download this folder to get the split by each organ)
 
 
 To run any of these modedl, please take data from G-drive folders or from kaggle link and change the path. 
