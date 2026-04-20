@@ -112,7 +112,7 @@ N --> O
   - **Grad-CAM** (region importance)
   - **LIME** (local feature importance)
 
-- Final system is deployed using a **Streamlit web app**: App link: https://cancer-app-g4evappcrrqdfhsyc7mgphj.streamlit.app/
+- Final system is deployed using a **Streamlit web app**: App link: https://cancer-app-spe8ozutjpdusyqeqnwavf.streamlit.app/
 
 
 **Folder Structure**
